@@ -4,6 +4,18 @@ body {
     padding: 0;
 }
 
+header {
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+    color: white;
+}
+
+#body {
+    text-align: center;
+    line-height: 100vh;
+}
+
 footer {
     text-align: center;
     background-color: chocolate;
